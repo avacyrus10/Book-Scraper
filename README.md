@@ -149,7 +149,8 @@ Main function to start the bot.
 def main():
     ...
 ```
-
+## Telegram Bot Link
+You can access the Book Scraper Bot using the following link: [Book Scraper Bot](https://t.me/book_scraper_10_bot)
 ## Acknowledgments
 - [Telegram Bot API](https://core.telegram.org/bots/api)
 - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)
